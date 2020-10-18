@@ -6,6 +6,11 @@ I am Ahmad Abdalmageed :blush: , I am a Senior Biomedical Engineer at Cairo Univ
 
 [![Linkedin: Ahmad Abdalmageed](https://img.shields.io/badge/-AhmadAbdalmageed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-abdelmageed-134a50151/)](https://www.linkedin.com/in/ahmed-abdelmageed-134a50151/)
 
+### 🔭 I’m currently working on ...
+
+- Data Analysis Advanced Course (Udacity)
+- Graduation Project 
+
 <!--
 **Ahmad-Abdalmageed/Ahmad-Abdalmageed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
