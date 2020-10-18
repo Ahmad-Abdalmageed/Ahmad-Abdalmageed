@@ -1,4 +1,4 @@
-### ![508310](/home/ahmad/Personal_Projects/Ahmad-Abdalmageed/508310.jpg)
+### ![508310](Ahmad-Abdalmageed/508310.jpg)
 
 ### Hi there 👋
 
