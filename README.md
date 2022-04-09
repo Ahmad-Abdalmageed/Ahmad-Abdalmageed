@@ -25,5 +25,5 @@
 
 
 
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Ahmad-Abdalmageed&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Ahmad-Abdalmageed&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
