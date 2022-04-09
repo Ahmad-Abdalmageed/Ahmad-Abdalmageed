@@ -17,7 +17,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-abdalmageed&show_icons=true&locale=en&layout=compact&theme=radical&hide=jupyter%20notebook,HTML" alt="ahmad-abdalmageed" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmad-abdalmageed&show_icons=true&locale=en&theme=radical" alt="ahmad-abdalmageed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-abdalmageed&show_icons=true&locale=en&theme=radical" alt="ahmad-abdalmageed" /></p>
+
+
+
+
+
+
+
+
 
 
 
