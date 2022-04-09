@@ -1,7 +1,7 @@
 ### ![988277](988277.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahmad Abdelmageed</h1>
-<h3 align="center">I am a Software Engineer from Cairo with a Bachelor in Biomedical Engineering. I am a fast learner , attentive programmer and a young professional who aspire to build a string career in Software Engineering. I love to code which is why you can find a variety of projects on my Github Account in various fields. Backend Engineering is where i want to start my career but i have experiences with other fields like Data Science and Embedded Systems.</h3>
+<h3 align="center">I am a Software Engineer from Cairo with a Bachelor in Biomedical Engineering. I am a fast learner , attentive programmer and a young professional who aspire to build a strong career in Software Engineering. I love to code which is why you can find a variety of projects on my Github Account in various fields. Backend Engineering is where i want to start my career but i have experiences with other fields like Data Science and Embedded Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-abdalmageed&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-abdalmageed" /> </p>
 
