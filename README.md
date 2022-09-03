@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abdelmageed</h1>
 <h3 align="center">I am a Junior Software Engineer who loves building working applications and delivering professional solutions. I am a fast learner , attentive programmer and a young professional who aspire to build a strong career in Software Engineering. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-abdalmageed&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-abdalmageed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
