@@ -93,6 +93,4 @@
 </div>
 
 
-
-<img href="https://raw.githubusercontent.com/Ahmad-Abdalmageed/Ahmad-Abdalmageed/blob/output/snake.svg" alt="Snake animation" />
-
+<img href="https://github.com/Ahmad-Abdalmageed/Ahmad-Abdalmageed/blob/output/snake.svg" alt="Snake animation" />
