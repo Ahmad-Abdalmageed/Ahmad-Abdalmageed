@@ -93,4 +93,4 @@
 </div>
 
 
-<img href="https://github.com/Ahmad-Abdalmageed/Ahmad-Abdalmageed/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Ahmad-Abdalmageed/Ahmad-Abdalmageed/blob/output/github-contribution-grid-snake.svg)
