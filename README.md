@@ -93,5 +93,5 @@
 </div>
 
 
-![Snake animation](https://github.com/Ahmad-Abdalmageed/Ahmad-Abdalmageed/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
